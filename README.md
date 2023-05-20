@@ -17,7 +17,7 @@ detection of heart disease.
  - Female are smoking less than Male.
  - BMI average is between 20 and 40 and there are many outliers.
  - Between 5 and 8 hours sleep time there are outliers.
- ### **You can find more details and the plots here**https://github.com/nour-aldin/BigData-Project/blob/main/Documents/FinalDoc2.pdf
+ ### **You can find more details and the plots here** https://github.com/nour-aldin/BigData-Project/blob/main/Documents/FinalDoc2.pdf
  
  ## Modeling
   - For all models we used: we did RandomOversampler to balance the classes.
